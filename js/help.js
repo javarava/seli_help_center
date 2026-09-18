@@ -442,3 +442,6 @@ document.addEventListener('DOMContentLoaded', () => {
   initHelpful();
   initMobileSidebar();
 });
+
+// ── Display current year ───────────────────────────────────────────────────
+document.getElementById('year').textContent = new Date().getFullYear();
