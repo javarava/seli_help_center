@@ -25,6 +25,19 @@ const HELP_STRUCTURE = [
     ]
   },
   {
+    id: 'shop-to-earn',
+    title: 'Shop-to-Earn',
+    icon: 'bi-cash-coin',
+    tint: 'c-teal',
+    desc: 'Earn cash-back credits on eligible purchases and when others buy through your reviews.',
+    articles: [
+      { id: 'what-is-shop-to-earn',          title: 'What is Shop-to-Earn?',                 desc: 'An overview of the cash-back rewards programme on Seli Market.' },
+      { id: 'earning-credits',                title: 'Earning Credits',                       desc: 'Ways to earn credits — eligible purchases and video or photo reviews.' },
+      { id: 'using-your-credits',             title: 'Using Your Credits',                    desc: 'Check your balance, apply credits at checkout, and what happens on refunds.' },
+      { id: 'shop-to-earn-for-merchants',     title: 'Shop-to-Earn for Merchants',            desc: 'Enable credits on your products and set the credit percentage and limits.' },
+    ]
+  },
+  {
     id: 'seli-pilot',
     title: 'Seli Pilot',
     icon: 'bi-bicycle',
